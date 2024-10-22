@@ -1,0 +1,7 @@
+self camera test.jpg
+HandGesture/images/*
+HandGesture/test
+HandGesture/multi_image_data.npz
+model/*
+model1.h5
+model2.h5
